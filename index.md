@@ -38,4 +38,4 @@ image_write(meme, "test_meme.png")
 
 ```
 
-I know, not the finest piece of code but if you couldn't tell by my meme I was just excited to see what I could do as I played with it.
+I know, not the finest piece of code, but if you couldn't tell by my meme, I was just excited to see what I could actually do (which was also my motivation for the meme).
