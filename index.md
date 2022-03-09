@@ -7,9 +7,17 @@ A bit about my meme-making process;
 - I changed the text multiple different times while coming up with it
 - I resized the second image very messily (I couldn't think of how else to do it then trial and error hard coding it)
 
-This meme was created using the extremely intuitive R package [Magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
-Here is my code,
+For reference these are the two images I used in their native resolutions and sizes.
+
+![](https://pbs.twimg.com/media/DgKOl_5XkAQJbC5.jpg)
+![](https://tse2.mm.bing.net/th?id=OIP.icvHPKW4uHRAeqTebtDb6gHaE7&pid=Api&P=0&w=279&h=185)
+
+As you can see, not ideal at all.
+
+## However I managed using the extremely intuitive R package [Magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+
+### And here is my code,
 ```{r }
 library(magick)
 
